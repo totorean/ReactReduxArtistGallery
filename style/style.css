@@ -1,0 +1,15 @@
+.navbar {
+    position: relative;
+}
+
+.logoAmi {
+    position: absolute;
+    left: 50%;
+    margin-left: -60px !important;
+    display: block;
+    width: 120px;
+}
+
+.textFillVW {
+    font-size: 4vw;
+}
